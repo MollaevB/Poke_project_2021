@@ -1,6 +1,6 @@
 #!/usr/bin/php -q
 <?php
-// Check platforms requirements
+// Check platform requirements
 require dirname(__DIR__) . '/config/requirements.php';
 require dirname(__DIR__) . '/vendor/autoload.php';
 
